@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "rn-jobs",
-    "slug": "rn-jobs"
+    "slug": "rn-jobs",
+    "extra": {
+      "eas": {
+        "projectId": "0868bb5a-1700-466b-8b66-45d192832892"
+      }
+    },
+    "android": {
+      "package": "com.alfa.dev.rnjobs"
+    }
   }
 }
